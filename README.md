@@ -6,7 +6,7 @@ this was my first ever competition so it was nice
 link for the competition
 https://datahack.analyticsvidhya.com/contest/game-of-deep-learning/?utm_source=sendinblue&utm_campaign=Go_Live_Game_of_Deep_Learning&utm_medium=email
 
-second notebook is for the competition held on hackerearth named as garden-nerd-data-science-competition and though i have got 57/7316 but their was fight between just 200 people others were not trying much 
+second notebook is for the competition held on hackerearth named as garden-nerd-data-science-competition and though i have got 57/7316 but their was fight between just 800 people others were not trying much 
 https://www.hackerearth.com/challenges/competitive/garden-nerd-data-science-competition/
 
 
