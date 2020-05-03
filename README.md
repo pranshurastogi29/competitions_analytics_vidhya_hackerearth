@@ -13,3 +13,6 @@ https://www.hackerearth.com/challenges/competitive/garden-nerd-data-science-comp
 third notebook is for the competition held on hackerearth named as classify-lunar-rock this competition has a huge dataleak and thus leading literally every one to achieve 100 percent f1 score but i have trained my model and thus achieving 33 rank
 
 https://www.hackerearth.com/challenges/competitive/lunar-rock-hackerearth-data-science-competition/?utm_source=challenges-modern&utm_campaign=participated-challenges&utm_medium=right-panel
+
+as latest held competition on hackerearth Auto classification of gala images i have secured a rank of 45/7120 though you should believe that only 500 of the competitors were participating more curiously than others<br>
+https://www.hackerearth.com/challenges/competitive/hackerearth-deep-learning-challenge-auto-tag-images-gala/leaderboard/auto-tag-images-of-the-gala-9e47fb31/
